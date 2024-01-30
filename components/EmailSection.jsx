@@ -41,9 +41,6 @@ const EmailSection = () => {
                     I am currently looking for new opportunities, my inbox is always open. If you have any questions, please feel free to reach out. 
                 </p>
                 <div className="socials flex flex-row gap-2">
-                    <Link href={"https://x.com/horh_larh1"}>
-                        <Fatwitter className="w-10 h-10 text-gray-400 hover:text-white" />
-                    </Link>
                     <Link href={"https://www.linkedin.com/in/olamilekan-adebukola-a7a291243/"} >
                     <FaLinkedin className="w-10 h-10 text-gray-400 hover:text-white" />
                     </Link>
